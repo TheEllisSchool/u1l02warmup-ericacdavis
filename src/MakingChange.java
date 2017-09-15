@@ -16,6 +16,7 @@ public class MakingChange {
 		JOptionPane.showMessageDialog(null, "$" + num + " is " + quarters + " quarters and " + dimes 
 				+ " dimes and "+ nickles  
 				+ " nickles and " + pennies + " pennies.");
+		//this is a test
 	}
 
 }
